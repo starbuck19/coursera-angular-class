@@ -1,3 +1,0 @@
-Implements lunch checker app that counts the number of items for lunch and prints the "Enjoy" message if number of items is less or equal to 3.
-If number of items is greater than 3, then the "Too much!" message is printed. Empty items do not count towards total lunch items count.
-"Please enter data first" is printed if input field is empty. Bonus features implnmented (different border and text color for the message printed depending on the message)
